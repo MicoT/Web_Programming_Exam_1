@@ -65,7 +65,7 @@ nav img{
 }
 
 .box{
-    width: 100%;
+    width: 93.7%;
     height: 600px;
     padding: 40px 60px;
     color: white;
@@ -82,7 +82,7 @@ nav img{
 
 .section-2{
 min-height: 100vh;
-width: 100%;
+width: 93.7%;
 background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/dongzhi.jpg);
 background-position: center;
 background-size: cover;
@@ -97,7 +97,7 @@ position: relative;
 
 .section-4{
 min-height: 100vh;
-width: 100%;
+width: 93.7%;
 background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/chinesenewyear.jpg);
 background-position: center;
 background-size: cover;
@@ -112,7 +112,7 @@ position: relative;
 
 .section-6{
 min-height: 100vh;
-width: 100%;
+width: 93.7%;
 background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/yuan-xiao.jpg);
 background-position: center;
 background-size: cover;
@@ -127,7 +127,7 @@ position: relative;
 
 .section-8{
 min-height: 100vh;
-width: 100%;
+width: 93.7%;
 background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/qingming.jpg);
 background-position: center;
 background-size: cover;
@@ -141,7 +141,7 @@ position: relative;
 
 .section-10{
 min-height: 100vh;
-width: 100%;
+width: 93.7%;
 background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/duanwu.jpg);
 background-position: center;
 background-size: cover;
