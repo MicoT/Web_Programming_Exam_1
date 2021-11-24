@@ -14,16 +14,6 @@
 
 }
 
-.header-about{
-    min-height: 100vh;
-    width: 100%;
-    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/background-2.jpg);
-    background-position: center;
-    background-size: cover;
-    position: relative;
-
-}
-
 nav{
     display: flex;
     padding: 2% 6%;
@@ -46,6 +36,12 @@ nav img{
     display: inline-block;
     padding: 8px 12px;
     position: relative;
+}
+
+.nav-links ul li a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
 }
 
 .nav-links ul li::after{
@@ -89,12 +85,8 @@ nav img{
 
 .text-box p{
     margin: 10px 0 40px;
-    font-size: 17px;
+    font-size: 14px;
     color: #fff;
-}
-
-.text-box img{
-    width: 30%;
 }
 
 .visit_btn{
@@ -115,23 +107,4 @@ nav img{
     transition: 1s;
 }
 
-.visit_btn button{
-    display: inline-block;
-    text-decoration: none;
-    color: #fff;
-    border: transparent;
-    padding: 12px 34px;
-    font-size: 15px;
-    background: transparent;
-    position: relative;
-    cursor: pointer;
-}
 
-.media-icons{
-    width: 5%;
-    position: absolute;
-    top: 80%;
-    left: 50%;
-    transform: translate(-50%,-50%);
-    text-align: center;
-}
